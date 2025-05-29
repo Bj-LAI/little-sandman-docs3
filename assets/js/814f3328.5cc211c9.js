@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83c\udfbb Musique multipiste","permalink":"/little-sandman-docs3/blog/music","unlisted":false,"date":"2025-05-27T00:00:00.000Z"}]}')}}]);
