@@ -1,5 +1,6 @@
 {
-  "name": "my-website",
+  "name": "little-sandman-docs3",
+  "homepage": "https://bj-lai.github.io",
   "version": "0.0.0",
   "private": true,
   "scripts": {
