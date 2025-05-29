@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Little Sandman Blog</title>
-        <link>https://bj-lai.github.io/little-sandman-docs3/blog</link>
+        <link>https://Bj-LAI.github.io/little-sandman-docs3/blog</link>
         <description>Little Sandman Blog</description>
         <lastBuildDate>Tue, 27 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[🎻 Musique multipiste]]></title>
-            <link>https://bj-lai.github.io/little-sandman-docs3/blog/music</link>
-            <guid>https://bj-lai.github.io/little-sandman-docs3/blog/music</guid>
+            <link>https://Bj-LAI.github.io/little-sandman-docs3/blog/music</link>
+            <guid>https://Bj-LAI.github.io/little-sandman-docs3/blog/music</guid>
             <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Bonjour à tous !]]></description>
             <content:encoded><![CDATA[<p>Bonjour à tous !</p>

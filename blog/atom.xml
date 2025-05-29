@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bj-lai.github.io/little-sandman-docs3/blog</id>
+    <id>https://Bj-LAI.github.io/little-sandman-docs3/blog</id>
     <title>Little Sandman Blog</title>
     <updated>2025-05-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bj-lai.github.io/little-sandman-docs3/blog"/>
+    <link rel="alternate" href="https://Bj-LAI.github.io/little-sandman-docs3/blog"/>
     <subtitle>Little Sandman Blog</subtitle>
-    <icon>https://bj-lai.github.io/little-sandman-docs3/img/lsdmn.png</icon>
+    <icon>https://Bj-LAI.github.io/little-sandman-docs3/img/lsdmn.png</icon>
     <entry>
         <title type="html"><![CDATA[🎻 Musique multipiste]]></title>
-        <id>https://bj-lai.github.io/little-sandman-docs3/blog/music</id>
-        <link href="https://bj-lai.github.io/little-sandman-docs3/blog/music"/>
+        <id>https://Bj-LAI.github.io/little-sandman-docs3/blog/music</id>
+        <link href="https://Bj-LAI.github.io/little-sandman-docs3/blog/music"/>
         <updated>2025-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bonjour à tous !]]></summary>
         <content type="html"><![CDATA[<p>Bonjour à tous !</p>
