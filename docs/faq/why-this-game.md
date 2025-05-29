@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Pourquoi ce jeu a-t-il été crée ?
+# Pourquoi ce jeu a-t-il été créé ?
 
 Ce jeu a été créé à l'occasion du concours de création de jeu-vidéo étudiant **_Games on Web 2025_**.
 
